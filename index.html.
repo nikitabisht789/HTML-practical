@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My College Webpage</title>
+    <title>My College Website</title>
 </head>
 <body>
 
-    <h1>Welcome to My College Webpage</h1>
+    <h1>Welcome to My College Website</h1>
 
     <h2>About My College</h2>
     <p>
@@ -21,7 +21,21 @@
     </ul>
 
     <h2>Contact</h2>
-    <p>Email: student@example.com</p>
+    <p>Email: student@example.com</p><p>
+    Visit our
+    <a href="https://www.google.com">website</a>
+    for more information.
+</p>
+
+
+<h2>College Activities</h2>
+
+<ol>
+    <li>Sports Activities</li>
+    <li>Cultural Events</li>
+    <li>Workshops</li>
+    <li>Seminars</li>
+</ol>
 
 </body>
 </html>
